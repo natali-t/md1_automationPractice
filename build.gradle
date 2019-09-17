@@ -18,6 +18,10 @@ dependencies {
     //compile group: 'org.seleniumhq.selenium', name: 'selenium-api', version: '3.141.59'
     //compile group: 'org.seleniumhq.selenium', name: 'selenium-server', version: '3.141.59'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '3.141.59'
+    compile group: 'io.cucumber', name: 'cucumber-java', version: '4.7.2'
+    testCompile group: 'io.cucumber', name: 'cucumber-junit', version: '4.7.2'
+
+
 
 
 
